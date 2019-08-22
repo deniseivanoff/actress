@@ -1,11 +1,11 @@
-body {margin: 0; background-color: #A239CA ; font-family: Merriweather, sans-serif; color:#E7DFDD; }
+body {margin: 0; background-color: #0E0B16 ; font-family: Merriweather, serif; color:#E7DFDD; }
 
 ul.sidenav {
     list-style-type: none;
     margin: 10;
     padding: 0;
     width: 25%;
-    background-color: #4717F6;
+    background-color: #0E0B16;
     position: fixed;
     height: 90%;
     overflow: auto;
@@ -19,7 +19,7 @@ ul.sidenav li a {
 }
  
 ul.sidenav li a.active {
-    background-color: #4717F6;
+    background-color: #0E0B16;
     color: white;
 }
 
